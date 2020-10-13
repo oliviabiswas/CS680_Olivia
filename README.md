@@ -1,3 +1,3 @@
 # CS680_Olivia
 
-HW1 uplodaed in folder HW1
+HW1 uploaded in folder HW1
