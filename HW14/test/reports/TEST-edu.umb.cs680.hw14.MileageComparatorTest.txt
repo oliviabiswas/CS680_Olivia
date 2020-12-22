@@ -1,3 +1,0 @@
-Testcase: edu.umb.cs680.hw14.MileageComparatorTest
-Test: MileageCompare() took 34 milli sec(s)
-Tests run: 1, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 53 milli sec(s)
